@@ -1,5 +1,5 @@
 /*   STEP 1   */
-export const leagueID = "1048302203364061184"; // your league ID
+export const leagueID = "1180223862213308416"; // your league ID
 export const leagueName = "Playing for Keepers"; // your league name
 export const dues = 0; // (optional) used in template constitution page
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
@@ -10,6 +10,13 @@ export const homepageText = `
   <p>Welcome to the league!</p>
   <p>What originally started as an 8-man league among passionate fantasy players at Union University has grown into a 12-man league that's super competitive.</p>
   <p>Thanks for checking us out!</p>
+  <p> Playing for Keepers Champions</p>
+  <p>2024: Logan</p>
+  <p>2023: Bennett</p>
+  <p>2022: Danny</p>
+  <p>2021: Logan</p>
+  <p>2020: Donny</p>
+  <p>2019: Logan</p>
 `;
 
 /*   STEP 3   */
